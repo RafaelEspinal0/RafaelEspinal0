@@ -93,17 +93,6 @@ Desarrollador **Fullstack** con enfoque en **ingeniería de software** y **DevOp
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![Estadísticas de Rafael](https://github-readme-stats.vercel.app/api?username=RafaelEspinal0&show_icons=true&hide_border=true&count_private=true&theme=default)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelEspinal0&layout=compact&hide_border=true&langs_count=8)
-
-</div>
-
----
 
 ## 📫 ¿Hablamos?
 
