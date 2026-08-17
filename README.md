@@ -21,7 +21,6 @@ Desarrollador **Fullstack** con enfoque en **ingeniería de software** y **DevOp
 - 💼 Actualmente trabajo como **Desarrollador Fullstack** en la **Comisión Presidencial de Apoyo al Desarrollo Barrial (CPADB)**, donde construyo aplicaciones web internas de extremo a extremo como único desarrollador, coordinando directamente con los interesados.
 - 🎓 Cursando **Ingeniería de Software** en la **Universidad APEC (UNAPEC)**.
 - 🧰 Vengo de una base técnica sólida: **Técnico Superior en Desarrollo de Software (ITLA)** y formación en Ingeniería de Software (INTEC).
-- 🤝 Lidero **UpVelo**, una empresa estudiantil de software donde desarrollo productos B2B.
 - 🌱 Aprendiendo y profundizando en **CI/CD, arquitectura de sistemas y cloud**.
 
 ---
