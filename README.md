@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Rafael Espinal
 
-### Desarrollador Fullstack &nbsp;·&nbsp; Ingeniería de Software &amp; DevOps
+### Desarrollador Fullstack &nbsp;·&nbsp; Ingeniería de Software
 
 📍 Santo Domingo, República Dominicana
 
